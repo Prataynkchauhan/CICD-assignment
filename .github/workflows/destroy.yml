@@ -5,7 +5,7 @@ on:
  
     
 env:
-  bucket: Pratyank-bucket1
+  bucket: pratyank-bucket1
   tfstate_file: CV.tfstate
   
   aws-region: us-east-1
